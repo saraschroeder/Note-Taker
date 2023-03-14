@@ -1,5 +1,16 @@
 {
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "uuid": "^9.0.0"
+    "express": "^4.16.4",
+    "nodemon": "^2.0.21",
+    "uniqid": "^5.3.0"
   }
 }
