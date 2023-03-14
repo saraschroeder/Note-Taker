@@ -2,9 +2,9 @@
 
 ## Description
 
-I produced this application in order for users to write and save notes. 
+I produced this application in order for users to write, delete, and save notes. 
 
-[Link to deployed application]()
+[Link to deployed application](https://dashboard.heroku.com/apps/rocky-scrubland-79080)
 
 ## Installation
 
@@ -12,11 +12,8 @@ Clone project and run "npm i" in your terminal. Once you have everything install
 
 ## Usage
 
-
-
-![alt text](./Develop/public/assets/images/Screenshot1.png)
-
-
+![alt text](./public/assets/images/Screenshot1.png)
+![alt text](./public/assets/images/Screenshot2.png)
 
 ## Credits
 
